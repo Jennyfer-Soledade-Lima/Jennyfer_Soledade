@@ -90,6 +90,24 @@ body {
     border-radius: 50%;
     margin-left: 6rem;
 }
+#topo a {
+    border-radius: 100%;
+    position: relative;
+    left: 85%;
+    top: -6rem;
+}
+#topo img{
+    width: 4rem;
+    height: auto;
+    background-color: white;
+    border-radius: 100%;
+}
+.forma{
+    background-color: #374A66;
+}
+#contato {
+    background-color: #565C66;;
+}
 /*
 @media (min-width:641px) {
     

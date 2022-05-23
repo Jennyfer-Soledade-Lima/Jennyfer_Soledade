@@ -72,9 +72,30 @@ body {
     margin-left: 6rem;
 
 }
+.forma{
+    background-color: #374A66;
+}
 #portfolio {
     background-color: #6081B3;
 }
+#topo a {
+    border-radius: 100%;
+    position: relative;
+    left: 75%;
+    top: -6rem;
+
+
+}
+#topo img{
+    width: 4rem;
+    height: auto;
+    background-color: white;
+    border-radius: 100%;
+}
+#contato {
+    background-color: #565C66;;
+}
+
 /*
 @media (min-width:641px) {
     
